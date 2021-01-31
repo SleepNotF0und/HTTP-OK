@@ -7,3 +7,6 @@ Once the tool is done it creates a file named "result.txt" and saves the output 
 
 # Usage
 python GetOk.py 
+
+# Note 
+this tool tasted on Windows only 
