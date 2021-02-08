@@ -98,7 +98,7 @@ def Make_Requests():
                 Make_Requests.DEADSUBS.append(str(line))
 
         
-
+# NEXT UPDATE SOON
 """        
 def Check_Dead():
     inpt = input(bcolors['OKGREEN'] + "\n\nRun Dead Subdomains Check ?? Y/N\n" + bcolors['ENDC'])
