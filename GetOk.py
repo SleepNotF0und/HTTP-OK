@@ -49,7 +49,9 @@ CleanLines = [
     replace('PassiveDNS:','').
     replace('Google:','').
     replace('Yahoo:','').
-    replace('Baidu:','')  
+    replace('Baidu:','').
+    replace('http://','').
+    replace('https://','') 
     for li in Lines
 ]
 
