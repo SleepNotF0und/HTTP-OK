@@ -21,8 +21,8 @@ Just run it and you will know how to use it
 * The Dead Sub with "Failed Time out"
 
 
-*Once the tool is done it creates a file named "result.txt" and saves the output in it
-*Simple and modular code making it easy to contribute.
+* Once the tool is done it creates a file named "result.txt" and saves the output in it
+* Simple and modular code making it easy to contribute.
 
 
 # Usage
