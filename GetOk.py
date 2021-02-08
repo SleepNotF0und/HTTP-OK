@@ -97,8 +97,9 @@ def Make_Requests():
                 print(bcolors['FAIL'] +  str(line).ljust(55) + "[Failed Time Out]"  + bcolors['ENDC'])
                 Make_Requests.DEADSUBS.append(str(line))
 
+        
 
-
+"""        
 def Check_Dead():
     inpt = input(bcolors['OKGREEN'] + "\n\nRun Dead Subdomains Check ?? Y/N\n" + bcolors['ENDC'])
 
@@ -127,10 +128,11 @@ def Check_Dead():
         #else:
         #    print "Port is not open"
         #sock.close()
-
-
-
-
+"""
 
 Make_Requests()
-Check_Dead()
+
+## SAVE THE RESULT OF RESPONSE 200 ONLY
+final_result = str(Make_Requests.ALIVESUBS).replace('[','').replace(']','').replace(',','\n').replace("'","")      
+with open('result.txt', 'w+') as file:file.write(str(final_result))
+print(bcolors['OKGREEN']+ "\n----------------------- Result Saved in result.txt -----------------------\n\n" + bcolors['ENDC']) 
