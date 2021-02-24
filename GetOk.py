@@ -64,7 +64,7 @@ print(bcolors['BOLD'] + "\n".join(PerfectLines) + bcolors['ENDC'])
 print(bcolors['FAIL'] + "\n\n--------------------",len(CleanLines) - len(PerfectLines)," Duplicated Subdomains Removed --------------------\n\n" + bcolors['ENDC'])
 
 # PRINT COUNT OF ALIVE SUBS
-print(bcolors['OKGREEN'] + "--------------------",len(PerfectLines)," Alive Subdomains Found ---------------------------\n\n" + bcolors['ENDC'])
+print(bcolors['OKGREEN'] + "--------------------",len(PerfectLines)," Unique Subdomains Found ---------------------------\n\n" + bcolors['ENDC'])
 
 
 def Make_Requests():   
