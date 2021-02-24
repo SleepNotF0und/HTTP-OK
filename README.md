@@ -18,9 +18,9 @@ Just run it and you will know how to use it
 * Simple and modular code making it easy to contribute.
 
 # You will see in Verbose
-* The Count of the Alive subs
+* The Count of the Unique Subdomains
 * The Estimated time to finish probing
-* The Unique Sub with it's http status code
+* The Alive Sub with it's http status code
 * The Dead Sub with "Failed Time out"
 
 
