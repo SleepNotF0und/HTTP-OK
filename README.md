@@ -20,7 +20,7 @@ Just run it and you will know how to use it
 # You will see in Verbose
 * The Count of the Alive subs
 * The Estimated time to finish probing
-* The Alive Sub with it's http status code
+* The Unique Sub with it's http status code
 * The Dead Sub with "Failed Time out"
 
 
