@@ -10,7 +10,7 @@
                                         Coded By @Hhazeem10 V2
 ```
 
-GET-OK is a Fast Python Script to Automate The Alive Subdomains Probering 
+GET-OK is a Fast Python3 Script to Automate The Alive Subdomains Probering 
 Just run it and you will know how to use it 
 
 * Removes Duplicated domains automaticlly
