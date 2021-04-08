@@ -7,10 +7,10 @@
 #+#    #+#       #+#               #+#           #+#    #+##+#   #+#
 ########        ##########        ###            ######## ###    ###
 
-                                        Coded By Hazeem Yaseer V3.0
+                                        Coded By @Hhazeem10 V2
 ```
 
-GETOK is a Fast Python Script to Automate The Alive Subdomains Probering 
+GET-OK is a Fast Python Script to Automate The Alive Subdomains Probering 
 Just run it and you will know how to use it 
 
 * Removes Duplicated domains automaticlly
@@ -20,12 +20,12 @@ Just run it and you will know how to use it
 # You will see in Verbose
 * The Count of the Unique Subdomains
 * The Estimated time to finish probing
-* The Alive Sub with it's http status code
-* The Dead Sub with "Failed Time out"
+* The Alive Sub with it's http status code & Server name
+* The Dead Sub as "Failed Time out" status
 
 
 # Usage
-python GetOk.py 
+python GET-OK.py 
 
 # PACKAGES
 * requests
@@ -34,7 +34,7 @@ python GetOk.py
 * pyfiglet
 
 # Note 
-* This tool tasted on Windows only 
+* Tasted on Windows only 
 * At this time It Supports Hosts only as an input in a file 
 
 # Next Update 
