@@ -14,7 +14,6 @@ GET-OK is a Fast Python3 Script to Automate The Alive Subdomains Probering
 Just run it and you will know how to use it 
 
 * Removes Duplicated domains automaticlly
-* Once the tool is done it creates a file named "result.txt" and saves the output in it
 * Simple and modular code making it easy to contribute.
 
 # You will see in Verbose
