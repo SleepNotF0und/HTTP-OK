@@ -29,7 +29,6 @@ python GET-OK.py
 # PACKAGES
 * requests
 * urllib3
-* socket
 * pyfiglet
 
 # Note 
