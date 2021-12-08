@@ -22,7 +22,7 @@ bcolors = {
 
 #BANNER
 print("\n\n",bcolors['FAIL'] + pyfiglet.figlet_format("G E T OK", font = "alligator" ) + bcolors['ENDC']) 
-print(bcolors['BOLD'] +"                                        Coded By @Hhazeem10 V2 \n\n" + bcolors['ENDC'])
+print(bcolors['BOLD'] +"                                        Coded By hackerone.com/0xr3dhunt V2 \n\n" + bcolors['ENDC'])
 
 
 #OPEN SUBDOMAINS FILE
