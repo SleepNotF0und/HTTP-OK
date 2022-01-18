@@ -1,16 +1,10 @@
-```
-       ::::::::        ::::::::::    :::::::::::        :::::::: :::    :::
-    :+:    :+:       :+:               :+:           :+:    :+::+:   :+:
-   +:+              +:+               +:+           +:+    +:++:+  +:+
-  :#:              +#++:++#          +#+           +#+    +:++#++:++
- +#+   +#+#       +#+               +#+           +#+    +#++#+  +#+
-#+#    #+#       #+#               #+#           #+#    #+##+#   #+#
-########        ##########        ###            ######## ###    ###
 
-                                        Coded By hackerone.com/0xr3dhunt V2
-```
+![logo](https://user-images.githubusercontent.com/51271019/149860546-32ae830f-1ae0-4c31-b28f-c5e712a602a5.JPG)
 
-GET-OK is a Fast Python3 Script to Automate The Alive Subdomains Probering 
+
+
+
+HTTP-OK is a Fast Python3 Script to Automate Alive Subdomains Probering 
 Just run it and you will know how to use it 
 
 * Removes Duplicated domains automaticlly
@@ -24,7 +18,7 @@ Just run it and you will know how to use it
 
 
 # Usage
-python GET-OK.py 
+python HTTP-OK.py 
 
 # PACKAGES
 * requests
