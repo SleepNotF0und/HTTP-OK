@@ -7,7 +7,7 @@
 #+#    #+#       #+#               #+#           #+#    #+##+#   #+#
 ########        ##########        ###            ######## ###    ###
 
-                                        Coded By @Hhazeem10 V2
+                                        Coded By hackerone.com/0xr3dhunt V2
 ```
 
 GET-OK is a Fast Python3 Script to Automate The Alive Subdomains Probering 
