@@ -20,6 +20,7 @@ Just run it and you will know how to use it
 
 # Usage
 python HTTP-OK.py 
+python3 HTTP-OK.py 
 
 # PACKAGES
 * requests
