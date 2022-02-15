@@ -2,7 +2,7 @@
 ![Screenshot (8)](https://user-images.githubusercontent.com/51271019/153992379-0ad49411-c4f1-4ab4-93e8-ea3d77316cb6.png)
 
 
-HTTP-OK is a Fast Python3 Script to Automate Alive Subdomains Probering 
+HTTP-OK is a Python3 Script to Automate Alive Subdomains Probering 
 Just run it and you will know how to use it 
 
 * Removes Duplicated domains automaticlly
