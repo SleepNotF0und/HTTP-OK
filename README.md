@@ -20,6 +20,7 @@ Just run it and you will know how to use it
 * python3 HTTP-OK.py 
 
 # PACKAGES
+* python==3.7.2
 * requests
 * urllib3
 * pyfiglet
