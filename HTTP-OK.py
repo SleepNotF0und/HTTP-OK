@@ -1,7 +1,5 @@
 import requests
 import urllib3
-#from socket import *  
-import pyfiglet
 import urllib3
 
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
@@ -21,8 +19,15 @@ bcolors = {
 }
 
 #BANNER
-print("\n\n",bcolors['FAIL'] + pyfiglet.figlet_format("G E T OK", font = "alligator" ) + bcolors['ENDC']) 
-print(bcolors['BOLD'] +"Coded By Hazem Yasser | https://github.com/SleepNotF0und | hackerone.com/0xr3dhunt\n\n" + bcolors['ENDC'])
+print("\n\n' ##::::'##:'########:'########:'########::::::::::::'#######::'##:::'##: ")
+print(" ##:::: ##:... ##..::... ##..:: ##.... ##::::::::::'##.... ##: ##::'##::")
+print(" ##:::: ##:::: ##::::::: ##:::: ##:::: ##:::::::::: ##:::: ##: ##:'##:::")
+print(" #########:::: ##::::::: ##:::: ########::'#######: ##:::: ##: #####::::")
+print(" ##.... ##:::: ##::::::: ##:::: ##.....:::........: ##:::: ##: ##. ##:::")
+print(" ##:::: ##:::: ##::::::: ##:::: ##::::::::::::::::: ##:::: ##: ##:. ##::")
+print(" ##:::: ##:::: ##::::::: ##:::: ##:::::::::::::::::. #######:: ##::. ##:")
+print(" ..:::::..:::::..::::::::..:::::..:::::::::::::::::::.......:::..::::..::")
+print(bcolors['BOLD'] +"Coded By Hazem Yasser | hackerone.com/0xr3dhunt\n\n" + bcolors['ENDC'])
 
 
 #OPEN SUBDOMAINS FILE
