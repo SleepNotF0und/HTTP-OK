@@ -23,7 +23,6 @@ Just run it and you will know how to use it
 * python==3.7.2
 * requests
 * urllib3
-* pyfiglet
 
 # Note 
 * Tasted on Windows only 
